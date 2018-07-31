@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gcxlfashion.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0685944C92F0599178248C5A878FE03FB713AA48</string>
+				<key>dateExpires</key>
+				<string>2019/7/31</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>UU7CT35H92.com.guanchaoxiliu.gcxlfashion</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>UU7CT35H92</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>UU7CT35H92.com.guanchaoxiliu.gcxlfashion</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>gcxlfashion.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>40eb0a07-2b49-4f2d-9272-c9c5752357ae</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.guanchaoxiliu.gcxlfashion</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>UU7CT35H92</string>
+				<key>name</key>
+				<string>Beijng TrendInS Network Technology Co.,Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
